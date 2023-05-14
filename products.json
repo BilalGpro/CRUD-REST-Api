@@ -1,0 +1,35 @@
+[
+    {
+        "name":"iphone",
+        "price": 154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name":"s10",
+        "price": 121,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name":"iwatch",
+        "price": 100,
+        "company": "apple"
+    },
+    {
+        "name":"mac",
+        "price": 150,
+        "company": "apple"
+    },
+    {
+        "name":"dell laptop",
+        "price": 90,
+        "company": "dell"
+    },
+    {
+        "name":"xperia",
+        "price": 124, 
+        "company": "samsung"
+    }
+  
+]
